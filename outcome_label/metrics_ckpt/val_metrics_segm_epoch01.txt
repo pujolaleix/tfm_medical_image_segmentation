@@ -1,0 +1,33 @@
+nococo_bbox_IoU@0.50_overall: 0.5792657967124667
+nococo_bbox_Dice@0.50_overall: 0.7335887320783055
+nococo_bbox_IoU@0.50_per_class:
+  benign: 0.5654181729663502
+  malignant: 0.5441025495529175
+  potentially malignant: 0.5909837409853935
+nococo_bbox_Dice@0.50_per_class:
+  benign: 0.7223861109200299
+  malignant: 0.7047492405351679
+  potentially malignant: 0.7429161288843357
+DICE TEST: 0.7320641495636299
+coco_bbox_IoU@0.50_overall: 0.5792657899753743
+coco_bbox_Dice@0.50_overall: 0.7320641495636299
+coco_bbox_IoU@0.50_per_class:
+  benign: 0.5654181621263814
+  malignant: 0.5441025556144068
+  potentially malignant: 0.5909837362691173
+coco_bbox_Dice@0.50_per_class:
+  benign: 0.7212978306485325
+  malignant: 0.7047492456197709
+  potentially malignant: 0.7411731753142505
+AP: 0.00024820582030709746
+AP50: 0.0018194861646094358
+AP75: 0.0
+AP_small: 0.0
+AP_medium: 0.0
+AP_large: 0.00027397613659322555
+AR@1: 0.00545537940825899
+AR@10: 0.00545537940825899
+AR@100: 0.00545537940825899
+AR_small: 0.0
+AR_medium: 0.0
+AR_large: 0.0055888591419961465
