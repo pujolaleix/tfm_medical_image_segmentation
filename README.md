@@ -26,15 +26,6 @@ main2.ipynb              # Notebook entrypoint (main is called here)
 
 ### 1) Environment
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-**Core deps:** `torch`, `torchvision`, `albumentations`, `pycocotools`, `pandas`, `numpy`, `Pillow`, `tqdm`, `matplotlib`.
-
-If you don’t have a `requirements.txt` yet, start with:
-```txt
 torch>=2.1
 torchvision>=0.16
 albumentations>=1.3
