@@ -1,0 +1,95 @@
+case_label,Test,Train,Validation
+abrikossoff's tumor,0,1,1
+abscess,0,2,1
+actinic cheilitis,7,13,13
+allergy,14,49,15
+amalgam tattoo,0,7,0
+angioedema,6,2,0
+angioma,7,53,14
+angular cheilitis,5,5,5
+ankyloglossia,2,0,0
+atrophic tongue,0,3,0
+behçet disease,0,15,0
+black hairy tongue,0,3,10
+bullous disease,0,0,15
+coated tongue,2,18,1
+comissural cheilitis,0,13,0
+denture stomatitis,2,4,1
+depapillation of the dorsal surface of the tongue,0,0,3
+desquamative gingivitis,4,8,5
+drug-induced gingival hyperplasia,0,2,0
+drug-induced ulcer,0,5,0
+dry lips,2,1,0
+epulis fissuratum,0,10,0
+erythema,0,2,0
+erythema multiforme,0,15,0
+erythematous candidiasis,7,34,3
+erythroplasia,0,3,1
+exfoliative cheilitis,0,1,0
+exostosis,1,17,2
+fibroma,17,87,23
+fissured tongue,1,14,7
+fistula,1,4,0
+foliate papillae,0,3,0
+fordyce granules,0,14,0
+frictional hyperkeratosis,8,88,12
+geographic tongue,5,26,9
+gingivitis,0,4,1
+granulomatous cheilitis,3,0,0
+hairy tongue,0,7,0
+healthy,1,0,0
+hematoma,2,6,2
+herpetic primoinfection,10,5,0
+human immunodeficiency virus-related aphthous ulcer,0,2,0
+idiopathic gingival enlargement,2,3,7
+infantile spongiotic gingivitis,0,0,1
+leiomyoma,0,2,1
+leukoedema,1,2,0
+leukoplakia,29,283,67
+linea alba,0,22,2
+lip dryness,1,4,0
+lipoma,0,2,1
+liquen plano oral o penfigoide,0,3,0
+lupus erythematosus,0,2,0
+lupus lip,0,0,3
+melanoma,4,13,0
+melanotic macule,7,14,11
+migratory stomatitis_ectopic geographic tongue,0,8,0
+mucocele,8,27,0
+necrotizing gingivitis,0,3,0
+necrotizing sialometaplasia,0,2,0
+neurofibromatosis,0,1,0
+nevus,0,3,0
+oral lichen planus,246,958,129
+oral lichenoid lesion,3,0,0
+oral lichenoid reaction,3,6,2
+oral squamous cell carcinoma,49,250,53
+oral submucous fibrosis,2,1,2
+ossifying fibroma,0,23,1
+osteonecrosis of the jaws,0,4,1
+papilloma,8,31,6
+peeling,0,2,0
+pemphigoid,27,158,20
+pericoronaritis,0,1,1
+periodontal abscess,0,0,1
+peripheral giant cell granuloma,0,1,0
+petechia,2,1,0
+physiologic pigmentation,2,18,2
+pigmented tongue,0,1,0
+proliferative verrucous leukoplakia,27,105,16
+pseudomembranous candidiasis,10,35,16
+pyogenic granuloma,9,40,3
+recurrent aphthous stomatitis,14,58,14
+recurrent oral herpes simplex,8,50,4
+scalloped tongue,3,13,2
+sialolithiasis,2,0,1
+smoker's melanosis,0,10,0
+syphilis,0,3,0
+tobacco keratosis,2,9,0
+tonsillitis,0,3,0
+torus,7,41,9
+traumatic lesion,14,21,2
+traumatic ulcer,31,117,41
+ulcers due to cytomegalovirus infection,0,0,1
+verrucous carcinoma,0,8,0
+white sponge nevus,0,1,0

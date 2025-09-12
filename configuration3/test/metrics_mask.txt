@@ -1,0 +1,42 @@
+nococo_segm_IoU@0.50_overall: 0.673453760747054
+nococo_segm_Dice@0.50_overall: 0.8048668885197215
+nococo_segm_IoU@0.50_per_class:
+  benign: 0.6924147886388442
+  malignant: 0.6898916395505269
+  potentially malignant: 0.6447970719819658
+nococo_segm_Dice@0.50_per_class:
+  benign: 0.8182566038621436
+  malignant: 0.8164921624608102
+  potentially malignant: 0.7840445280036777
+nococo_segm_mAP: 0.3457479229108175
+nococo_segm_mAR: 0.8353723684946696
+nococo_segm_mAP_per_class:
+  benign: 0.22991906433893938
+  malignant: 0.44994474361121584
+  potentially malignant: 0.3573799607822974
+nococo_segm_mAR_per_class:
+  benign: 0.8326530456542969
+  malignant: 0.8823529481887817
+  potentially malignant: 0.7911111116409302
+coco_segm_IoU@0.50_overall: 0.6734537605557754
+coco_segm_Dice@0.50_overall: 0.7999337275946297
+coco_segm_IoU@0.50_per_class:
+  benign: 0.6924147881750006
+  malignant: 0.6898916406674036
+  potentially malignant: 0.6447970715518765
+coco_segm_Dice@0.50_per_class:
+  benign: 0.8131396255674844
+  malignant: 0.8119384663188799
+  potentially malignant: 0.7797407018037246
+AP: 0.12391888695625437
+AP50: 0.3466323645204451
+AP75: 0.061144457584140145
+AP_small: -1.0
+AP_medium: 0.23675702189229936
+AP_large: 0.12435148654339274
+AR@1: 0.2694197679071628
+AR@10: 0.3757378506958339
+AR@100: 0.3760220532657507
+AR_small: -1.0
+AR_medium: 0.3755555555555556
+AR_large: 0.3765966729441306

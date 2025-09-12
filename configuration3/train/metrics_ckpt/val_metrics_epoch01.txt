@@ -1,0 +1,42 @@
+nococo_bbox_IoU@0.50_overall: 0.6116496026515961
+nococo_bbox_Dice@0.50_overall: 0.7590354648371065
+nococo_bbox_IoU@0.50_per_class:
+  benign: 0.6670441389083862
+  malignant: 0.0
+  potentially malignant: 0.5562550663948059
+nococo_bbox_Dice@0.50_per_class:
+  benign: 0.8002717184743291
+  malignant: 0.0
+  potentially malignant: 0.7148636215314204
+img_level_acc: 0.5149136577708007
+img_accuracy_per_class:
+  benign: 0.11475409836065574
+  malignant: 0.0
+  potentially malignant: 0.9202453987730062
+coco_bbox_IoU@0.50_overall: 0.61164960615636
+coco_bbox_Dice@0.50_overall: 0.7557935324961156
+coco_bbox_IoU@0.50_per_class:
+  benign: 0.6670441381153808
+  malignant: 0.0
+  potentially malignant: 0.5562550741973391
+coco_bbox_Dice@0.50_per_class:
+  benign: 0.7983296356542458
+  malignant: 0.0
+  potentially malignant: 0.7132574293379853
+AP: 0.00012962449302594855
+AP50: 0.0003506514736920354
+AP75: 0.00016615102555288185
+AP_small: 0.0
+AP_medium: 0.0
+AP_large: 0.00012967282657118853
+AR@1: 0.0014065934065934065
+AR@10: 0.003769230769230769
+AR@100: 0.003769230769230769
+AR_small: 0.0
+AR_medium: 0.0
+AR_large: 0.003820813903402813
+coco_image_level_accuracy: 0.5149136577708007
+coco_img_accuracy_per_class:
+  benign: 0.11475409836065574
+  malignant: 0.0
+  potentially malignant: 0.9202453987730062

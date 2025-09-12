@@ -1,0 +1,5 @@
+case_label,Test,Train,Validation
+benign,328,1560,344
+healthy,8,11,4
+malignant,64,323,83
+potentially malignant,372,1577,450

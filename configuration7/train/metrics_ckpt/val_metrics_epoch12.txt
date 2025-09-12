@@ -1,0 +1,780 @@
+nococo_bbox_IoU@0.50_overall: 0.6108686625957489
+nococo_bbox_Dice@0.50_overall: 0.7584338522190841
+nococo_bbox_IoU@0.50_per_class:
+  abrikossoff's tumor: -2.0
+  abscess: -2.0
+  actinic cheilitis: -2.0
+  allergy: -2.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: -2.0
+  angular cheilitis: -2.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: -2.0
+  bullous disease: -2.0
+  coated tongue: -2.0
+  comissural cheilitis: -2.0
+  denture stomatitis: -2.0
+  depapillation of the dorsal surface of the tongue: -2.0
+  desquamative gingivitis: -2.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: -2.0
+  erythroplasia: -2.0
+  exfoliative cheilitis: -2.0
+  exostosis: -2.0
+  fibroma: -2.0
+  fissured tongue: -2.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: -2.0
+  geographic tongue: -2.0
+  gingivitis: -2.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: -2.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: -2.0
+  infantile spongiotic gingivitis: -2.0
+  leiomyoma: -2.0
+  leukoedema: -2.0
+  leukoplakia: -2.0
+  linea alba: -2.0
+  lip dryness: -2.0
+  lipoma: -2.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: -2.0
+  melanoma: -2.0
+  melanotic macule: -2.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.543631911277771
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: -2.0
+  oral squamous cell carcinoma: 0.6332809130350748
+  oral submucous fibrosis: -2.0
+  ossifying fibroma: -2.0
+  osteonecrosis of the jaws: -2.0
+  papilloma: -2.0
+  peeling: -2.0
+  pemphigoid: -2.0
+  pericoronaritis: -2.0
+  periodontal abscess: -2.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: -2.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: -2.0
+  pseudomembranous candidiasis: -2.0
+  pyogenic granuloma: -2.0
+  recurrent aphthous stomatitis: -2.0
+  recurrent oral herpes simplex: -2.0
+  scalloped tongue: -2.0
+  sialolithiasis: -2.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: -2.0
+  traumatic lesion: -2.0
+  traumatic ulcer: -2.0
+  ulcers due to cytomegalovirus infection: -2.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+nococo_bbox_Dice@0.50_per_class:
+  abrikossoff's tumor: -2.0
+  abscess: -2.0
+  actinic cheilitis: -2.0
+  allergy: -2.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: -2.0
+  angular cheilitis: -2.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: -2.0
+  bullous disease: -2.0
+  coated tongue: -2.0
+  comissural cheilitis: -2.0
+  denture stomatitis: -2.0
+  depapillation of the dorsal surface of the tongue: -2.0
+  desquamative gingivitis: -2.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: -2.0
+  erythroplasia: -2.0
+  exfoliative cheilitis: -2.0
+  exostosis: -2.0
+  fibroma: -2.0
+  fissured tongue: -2.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: -2.0
+  geographic tongue: -2.0
+  gingivitis: -2.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: -2.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: -2.0
+  infantile spongiotic gingivitis: -2.0
+  leiomyoma: -2.0
+  leukoedema: -2.0
+  leukoplakia: -2.0
+  linea alba: -2.0
+  lip dryness: -2.0
+  lipoma: -2.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: -2.0
+  melanoma: -2.0
+  melanotic macule: -2.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.7043543312443823
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: -2.0
+  oral squamous cell carcinoma: 0.7754709039711593
+  oral submucous fibrosis: -2.0
+  ossifying fibroma: -2.0
+  osteonecrosis of the jaws: -2.0
+  papilloma: -2.0
+  peeling: -2.0
+  pemphigoid: -2.0
+  pericoronaritis: -2.0
+  periodontal abscess: -2.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: -2.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: -2.0
+  pseudomembranous candidiasis: -2.0
+  pyogenic granuloma: -2.0
+  recurrent aphthous stomatitis: -2.0
+  recurrent oral herpes simplex: -2.0
+  scalloped tongue: -2.0
+  sialolithiasis: -2.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: -2.0
+  traumatic lesion: -2.0
+  traumatic ulcer: -2.0
+  ulcers due to cytomegalovirus infection: -2.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+nococo_bbox_mAP: 3.447895495231993e-05
+nococo_bbox_mAR: 0.0012618767134114808
+nococo_bbox_mAP_per_class:
+  abrikossoff's tumor: 0.0
+  abscess: 0.0
+  actinic cheilitis: 0.0
+  allergy: 0.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: 0.0
+  angular cheilitis: 0.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: 0.0
+  bullous disease: 0.0
+  coated tongue: 0.0
+  comissural cheilitis: -2.0
+  denture stomatitis: 0.0
+  depapillation of the dorsal surface of the tongue: 0.0
+  desquamative gingivitis: 0.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: 0.0
+  erythroplasia: 0.0
+  exfoliative cheilitis: -2.0
+  exostosis: 0.0
+  fibroma: 0.0
+  fissured tongue: 0.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: 0.0
+  geographic tongue: 0.0
+  gingivitis: 0.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: 0.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: 0.0
+  infantile spongiotic gingivitis: 0.0
+  leiomyoma: 0.0
+  leukoedema: -2.0
+  leukoplakia: 0.0
+  linea alba: 0.0
+  lip dryness: -2.0
+  lipoma: 0.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: 0.0
+  melanoma: -2.0
+  melanotic macule: 0.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.0005963029418769306
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: 0.0
+  oral squamous cell carcinoma: 0.001162123760691386
+  oral submucous fibrosis: 0.0
+  ossifying fibroma: 0.0
+  osteonecrosis of the jaws: 0.0
+  papilloma: 0.0
+  peeling: -2.0
+  pemphigoid: 0.0
+  pericoronaritis: 0.0
+  periodontal abscess: 0.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: 0.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: 0.0
+  pseudomembranous candidiasis: 0.0
+  pyogenic granuloma: 0.0
+  recurrent aphthous stomatitis: 0.0
+  recurrent oral herpes simplex: 0.0
+  scalloped tongue: 0.0
+  sialolithiasis: 0.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: 0.0
+  traumatic lesion: 0.0
+  traumatic ulcer: 0.0
+  ulcers due to cytomegalovirus infection: 0.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+nococo_bbox_mAR_per_class:
+  abrikossoff's tumor: 0.0
+  abscess: 0.0
+  actinic cheilitis: 0.0
+  allergy: 0.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: 0.0
+  angular cheilitis: 0.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: 0.0
+  bullous disease: 0.0
+  coated tongue: 0.0
+  comissural cheilitis: -2.0
+  denture stomatitis: 0.0
+  depapillation of the dorsal surface of the tongue: 0.0
+  desquamative gingivitis: 0.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: 0.0
+  erythroplasia: 0.0
+  exfoliative cheilitis: -2.0
+  exostosis: 0.0
+  fibroma: 0.0
+  fissured tongue: 0.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: 0.0
+  geographic tongue: 0.0
+  gingivitis: 0.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: 0.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: 0.0
+  infantile spongiotic gingivitis: 0.0
+  leiomyoma: 0.0
+  leukoedema: -2.0
+  leukoplakia: 0.0
+  linea alba: 0.0
+  lip dryness: -2.0
+  lipoma: 0.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: 0.0
+  melanoma: -2.0
+  melanotic macule: 0.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.007751937955617905
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: 0.0
+  oral squamous cell carcinoma: 0.056603774428367615
+  oral submucous fibrosis: 0.0
+  ossifying fibroma: 0.0
+  osteonecrosis of the jaws: 0.0
+  papilloma: 0.0
+  peeling: -2.0
+  pemphigoid: 0.0
+  pericoronaritis: 0.0
+  periodontal abscess: 0.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: 0.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: 0.0
+  pseudomembranous candidiasis: 0.0
+  pyogenic granuloma: 0.0
+  recurrent aphthous stomatitis: 0.0
+  recurrent oral herpes simplex: 0.0
+  scalloped tongue: 0.0
+  sialolithiasis: 0.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: 0.0
+  traumatic lesion: 0.0
+  traumatic ulcer: 0.0
+  ulcers due to cytomegalovirus infection: 0.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+img_level_acc@0.05: 0.28900709219858156
+img_accuracy_per_class@0.05:
+  abrikossoff's tumor: 0.0
+  abscess: 0.0
+  actinic cheilitis: 0.0
+  allergy: 0.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: 0.0
+  angular cheilitis: 0.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: 0.0
+  bullous disease: 0.0
+  coated tongue: 0.0
+  comissural cheilitis: -2.0
+  denture stomatitis: 0.0
+  depapillation of the dorsal surface of the tongue: 0.0
+  desquamative gingivitis: 0.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: 0.0
+  erythroplasia: 0.0
+  exfoliative cheilitis: -2.0
+  exostosis: 0.0
+  fibroma: 0.391304347826087
+  fissured tongue: 0.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: 0.0
+  geographic tongue: 0.0
+  gingivitis: 0.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: 0.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: 0.0
+  infantile spongiotic gingivitis: 0.0
+  leiomyoma: 0.0
+  leukoedema: -2.0
+  leukoplakia: 0.0
+  linea alba: 0.0
+  lip dryness: -2.0
+  lipoma: 0.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: 0.0
+  melanoma: -2.0
+  melanotic macule: 0.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.8992248062015504
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: 0.0
+  oral squamous cell carcinoma: 0.7169811320754716
+  oral submucous fibrosis: 0.0
+  ossifying fibroma: 0.0
+  osteonecrosis of the jaws: 0.0
+  papilloma: 0.0
+  peeling: -2.0
+  pemphigoid: 0.0
+  pericoronaritis: 0.0
+  periodontal abscess: 0.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: 0.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: 0.0
+  pseudomembranous candidiasis: 0.0
+  pyogenic granuloma: 0.0
+  recurrent aphthous stomatitis: 0.0
+  recurrent oral herpes simplex: 0.0
+  scalloped tongue: 0.0
+  sialolithiasis: 0.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: 0.0
+  traumatic lesion: 0.0
+  traumatic ulcer: 0.0
+  ulcers due to cytomegalovirus infection: 0.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+coco_bbox_IoU@0.50_overall: 0.6108686505289366
+coco_bbox_Dice@0.50_overall: 0.7561220168665185
+coco_bbox_IoU@0.50_per_class:
+  abrikossoff's tumor: -2.0
+  abscess: -2.0
+  actinic cheilitis: -2.0
+  allergy: -2.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: -2.0
+  angular cheilitis: -2.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: -2.0
+  bullous disease: -2.0
+  coated tongue: -2.0
+  comissural cheilitis: -2.0
+  denture stomatitis: -2.0
+  depapillation of the dorsal surface of the tongue: -2.0
+  desquamative gingivitis: -2.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: -2.0
+  erythroplasia: -2.0
+  exfoliative cheilitis: -2.0
+  exostosis: -2.0
+  fibroma: -2.0
+  fissured tongue: -2.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: -2.0
+  geographic tongue: -2.0
+  gingivitis: -2.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: -2.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: -2.0
+  infantile spongiotic gingivitis: -2.0
+  leiomyoma: -2.0
+  leukoedema: -2.0
+  leukoplakia: -2.0
+  linea alba: -2.0
+  lip dryness: -2.0
+  lipoma: -2.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: -2.0
+  melanoma: -2.0
+  melanotic macule: -2.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.5436318850223093
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: -2.0
+  oral squamous cell carcinoma: 0.6332809056978123
+  oral submucous fibrosis: -2.0
+  ossifying fibroma: -2.0
+  osteonecrosis of the jaws: -2.0
+  papilloma: -2.0
+  peeling: -2.0
+  pemphigoid: -2.0
+  pericoronaritis: -2.0
+  periodontal abscess: -2.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: -2.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: -2.0
+  pseudomembranous candidiasis: -2.0
+  pyogenic granuloma: -2.0
+  recurrent aphthous stomatitis: -2.0
+  recurrent oral herpes simplex: -2.0
+  scalloped tongue: -2.0
+  sialolithiasis: -2.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: -2.0
+  traumatic lesion: -2.0
+  traumatic ulcer: -2.0
+  ulcers due to cytomegalovirus infection: -2.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+coco_bbox_Dice@0.50_per_class:
+  abrikossoff's tumor: -2.0
+  abscess: -2.0
+  actinic cheilitis: -2.0
+  allergy: -2.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: -2.0
+  angular cheilitis: -2.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: -2.0
+  bullous disease: -2.0
+  coated tongue: -2.0
+  comissural cheilitis: -2.0
+  denture stomatitis: -2.0
+  depapillation of the dorsal surface of the tongue: -2.0
+  desquamative gingivitis: -2.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: -2.0
+  erythroplasia: -2.0
+  exfoliative cheilitis: -2.0
+  exostosis: -2.0
+  fibroma: -2.0
+  fissured tongue: -2.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: -2.0
+  geographic tongue: -2.0
+  gingivitis: -2.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: -2.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: -2.0
+  infantile spongiotic gingivitis: -2.0
+  leiomyoma: -2.0
+  leukoedema: -2.0
+  leukoplakia: -2.0
+  linea alba: -2.0
+  lip dryness: -2.0
+  lipoma: -2.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: -2.0
+  melanoma: -2.0
+  melanotic macule: -2.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.7043543092068903
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: -2.0
+  oral squamous cell carcinoma: 0.7733779194197279
+  oral submucous fibrosis: -2.0
+  ossifying fibroma: -2.0
+  osteonecrosis of the jaws: -2.0
+  papilloma: -2.0
+  peeling: -2.0
+  pemphigoid: -2.0
+  pericoronaritis: -2.0
+  periodontal abscess: -2.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: -2.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: -2.0
+  pseudomembranous candidiasis: -2.0
+  pyogenic granuloma: -2.0
+  recurrent aphthous stomatitis: -2.0
+  recurrent oral herpes simplex: -2.0
+  scalloped tongue: -2.0
+  sialolithiasis: -2.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: -2.0
+  traumatic lesion: -2.0
+  traumatic ulcer: -2.0
+  ulcers due to cytomegalovirus infection: -2.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
+AP: 5.655329392971653e-06
+AP50: 3.884841679099379e-05
+AP75: 0.0
+AP_small: -1.0
+AP_medium: 0.0
+AP_large: 5.711783207457404e-06
+AR@1: 0.00020017953063922658
+AR@10: 0.00034816325242982956
+AR@100: 0.00034816325242982956
+AR_small: -1.0
+AR_medium: 0.0
+AR_large: 0.00035456639423807687
+coco_image_level_accuracy@0.05: 0.28900709219858156
+coco_img_accuracy_per_class@0.05:
+  abrikossoff's tumor: 0.0
+  abscess: 0.0
+  actinic cheilitis: 0.0
+  allergy: 0.0
+  amalgam tattoo: -2.0
+  angioedema: -2.0
+  angioma: 0.0
+  angular cheilitis: 0.0
+  ankyloglossia: -2.0
+  atrophic tongue: -2.0
+  behçet disease: -2.0
+  black hairy tongue: 0.0
+  bullous disease: 0.0
+  coated tongue: 0.0
+  comissural cheilitis: -2.0
+  denture stomatitis: 0.0
+  depapillation of the dorsal surface of the tongue: 0.0
+  desquamative gingivitis: 0.0
+  drug-induced gingival hyperplasia: -2.0
+  drug-induced ulcer: -2.0
+  dry lips: -2.0
+  epulis fissuratum: -2.0
+  erythema: -2.0
+  erythema multiforme: -2.0
+  erythematous candidiasis: 0.0
+  erythroplasia: 0.0
+  exfoliative cheilitis: -2.0
+  exostosis: 0.0
+  fibroma: 0.391304347826087
+  fissured tongue: 0.0
+  fistula: -2.0
+  foliate papillae: -2.0
+  fordyce granules: -2.0
+  frictional hyperkeratosis: 0.0
+  geographic tongue: 0.0
+  gingivitis: 0.0
+  granulomatous cheilitis: -2.0
+  hairy tongue: -2.0
+  healthy: -2.0
+  hematoma: 0.0
+  herpetic primoinfection: -2.0
+  human immunodeficiency virus-related aphthous ulcer: -2.0
+  idiopathic gingival enlargement: 0.0
+  infantile spongiotic gingivitis: 0.0
+  leiomyoma: 0.0
+  leukoedema: -2.0
+  leukoplakia: 0.0
+  linea alba: 0.0
+  lip dryness: -2.0
+  lipoma: 0.0
+  liquen plano oral o penfigoide: -2.0
+  lupus erythematosus: -2.0
+  lupus lip: 0.0
+  melanoma: -2.0
+  melanotic macule: 0.0
+  migratory stomatitis_ectopic geographic tongue: -2.0
+  mucocele: -2.0
+  necrotizing gingivitis: -2.0
+  necrotizing sialometaplasia: -2.0
+  neurofibromatosis: -2.0
+  nevus: -2.0
+  oral lichen planus: 0.8992248062015504
+  oral lichenoid lesion: -2.0
+  oral lichenoid reaction: 0.0
+  oral squamous cell carcinoma: 0.7169811320754716
+  oral submucous fibrosis: 0.0
+  ossifying fibroma: 0.0
+  osteonecrosis of the jaws: 0.0
+  papilloma: 0.0
+  peeling: -2.0
+  pemphigoid: 0.0
+  pericoronaritis: 0.0
+  periodontal abscess: 0.0
+  peripheral giant cell granuloma: -2.0
+  petechia: -2.0
+  physiologic pigmentation: 0.0
+  pigmented tongue: -2.0
+  proliferative verrucous leukoplakia: 0.0
+  pseudomembranous candidiasis: 0.0
+  pyogenic granuloma: 0.0
+  recurrent aphthous stomatitis: 0.0
+  recurrent oral herpes simplex: 0.0
+  scalloped tongue: 0.0
+  sialolithiasis: 0.0
+  smoker's melanosis: -2.0
+  syphilis: -2.0
+  tobacco keratosis: -2.0
+  tonsillitis: -2.0
+  torus: 0.0
+  traumatic lesion: 0.0
+  traumatic ulcer: 0.0
+  ulcers due to cytomegalovirus infection: 0.0
+  verrucous carcinoma: -2.0
+  white sponge nevus: -2.0
