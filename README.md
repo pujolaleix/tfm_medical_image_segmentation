@@ -2,7 +2,6 @@
 A compact pipeline for **object detection + instance segmentation** (Mask R-CNN) on medical images (oral lesions).  
 It covers **dataset prep, augmentation, training, evaluation, visualization**, and **balancing**. The primary entrypoint for running experiments is the **`main2.ipynb`** notebook.
 This is the code delivered to support my thesis memory for master in Computer Vision in UAB.
----
 
 ## 📦 What’s inside
 
